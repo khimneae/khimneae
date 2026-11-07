@@ -109,6 +109,6 @@ I believe the combination of Management Information Systems and Artificial Intel
 
 ## Connect With Me
 
-- **GitHub:** https://github.com/khiemneae
+- **GitHub:** https://github.com/khimneae
 - **Portfolio Website:** Coming soon
 - **Email:** vuvankhiem18@gmail.com
